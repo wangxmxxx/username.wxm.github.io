@@ -1,0 +1,60 @@
+        .roof {
+             border: 1px solid #CDC28D; /* 输入框表框颜色*/
+             background-color: #F2F9FD; /* 输入框背景颜色*/
+             height: 760px; /*输入框高度*/
+             width: 80%; /*输入框宽度*/
+             margin:0 auto;
+            }
+        .endothecium0 {
+             width: 15%;
+             border: 1px solid #FF5432;
+             margin-left:3px;
+             margin-top:3px;
+             height: 99%;
+             float:left;
+            }
+        .endothecium1 {
+             width: 84%;
+             border: 1px solid #FF5432;
+             margin-left:3px;
+             margin-top:3px;
+             height: 99%;
+             float:left;
+            }
+        .endothecium2 {
+             width: 100%;
+             background-color:#CCCCCC;
+             height: 5px;
+             float:left;
+            }
+        .ULlable {
+             list-style:none;
+             font: bold 18px "宋体";
+             padding-left: 10px;
+            }
+        
+        .ULlable a{color: #333333;}
+        .ULlable a:hover{color:#ff0000}
+        .ULlable a:active{color:#9932CC}
+        .a {TEXT-DECORATION:none;}
+        .endotheci {
+             color:#999; /*设定文字颜色为灰色*/
+             float:left; /*div想左浮动*/
+             padding-top: 4px; /*输入框里的文字和输入框上边之间的距离（因为输入框比较高，输入的字不是居中的，所以设定此样式）*/
+             font-family: Arial, Helvetica, sans-serif; /*输入框文字类型*/
+             font-size: 12px; /*输入框内文字大小*/
+             padding-left: 10px; /*输入框里的文字和输入框左边之间的距离*/
+            }
+        .ULlable a1:visited {color:#9932CC}
+        .interior {
+             width: 90%; /*输入框宽度*/
+             margin: 0 auto;
+             font-size: 33px;
+             color: #9900CC;
+        }
+        .interior1 {
+             height: 1px; /*输入框高度*/
+             width: 30%; /*输入框宽度*/
+             background-color: #9900CC;
+             margin-top:1px;
+        }
