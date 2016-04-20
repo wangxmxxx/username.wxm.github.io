@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 		.body {
 			 margin: 0;
 			 padding: 0px;
 			 background-image: url(../images/bg-main.png);
 			}
 		.roof {
+=======
+	.body {
+	     margin: 0px;
+	     padding: 0px;
+	     background-image: url(../images/bg-main.png);
+	    }
+	.roof {
+>>>>>>> origin/gh-pages
              border: 1px solid #CDC28D; /* 输入框表框颜色*/
              background-color: #F2F9FD; /* 输入框背景颜色*/
              height: 760px; /*输入框高度*/
