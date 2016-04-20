@@ -6,7 +6,7 @@
 	    }
 		.roof {
              border: 1px solid #CDC28D; /* 输入框表框颜色*/
-             background-color: #F2F9FD; /* 输入框背景颜色*/
+            /* background-color: #F2F9FD;  输入框背景颜色*/
              height: 760px; /*输入框高度*/
              width: 80%; /*输入框宽度*/
              margin:0 auto;
