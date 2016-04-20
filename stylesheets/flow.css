@@ -1,8 +1,8 @@
 
-		.body {
+    	.body {
 	     margin: 0px;
 	     padding: 0px;
-	     background-image: url(../images/bg-main.png);
+	     background-image: url(../images/main.jpg);
 	    }
 		.roof {
              border: 1px solid #CDC28D; /* 输入框表框颜色*/
