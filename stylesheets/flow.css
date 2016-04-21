@@ -5,22 +5,20 @@
 	     background-image: url(../images/main1.jpg);
 	    }
 		.roof {
-             border: 1px solid #CDC28D; /* 输入框表框颜色*/
+            /* border: 1px solid #CDC28D;  输入框表框颜色*/
             /* background-color: #F2F9FD;  输入框背景颜色*/
              width: 80%; /*输入框宽度*/
              margin:0 auto;
             }
         .endothecium0 {
              width: 15%;
-             border: 1px solid #FF5432;
              margin-left:3px;
              margin-top:3px;
              height: 99%;
              float:left;
             }
         .endothecium1 {
-             width: 84%;
-             border: 1px solid #FF5432;
+             width: 82%;
              margin-left:3px;
              margin-top:3px;
              height: 99%;
