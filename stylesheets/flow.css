@@ -20,7 +20,7 @@
         .endothecium1 {
              width: 80%;
              margin-left:3px;
-             margin-top:3px;
+             margin-top:33px;
              height: 99%;
              float:left;
             }
@@ -50,7 +50,6 @@
             }
         .ULlable a1:visited {color:#9932CC}
         .interior {
-			 border: 1px solid #CDC28D;
              width: 95%; /*输入框宽度*/
              margin: 0 auto;
              font-size: 33px;
