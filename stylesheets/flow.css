@@ -42,7 +42,10 @@
         .ULlable a{color: #333333;}
         .ULlable a:hover{color:#ff0000}
         .ULlable a:active{color:#9932CC}
-		.ULlable a1:visited{color: #9932CC;}
+		.a1 {
+		     color: #9932CC;
+		     TEXT-DECORATION:none;
+			}
         .a {TEXT-DECORATION:none;}
         .endotheci {
              color:#999; /*设定文字颜色为灰色*/
